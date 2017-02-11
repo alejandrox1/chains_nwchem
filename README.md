@@ -38,11 +38,11 @@ To run these alculations on [Stampede](https://portal.tacc.utexas.edu/user-guide
  * [calc.nw](https://github.com/alejandrox1/chains_nwchem/blob/master/bench_mols/calc.nw)
    Performs calculation
  * Input Structures:
-  * [1-hexene.xyz](https://github.com/alejandrox1/chains_nwchem/blob/master/bench_mols/1-hexene.xyz)
-  * [224-trimethylpentane.xyz](https://github.com/alejandrox1/chains_nwchem/blob/master/bench_mols/224-trimethylpentane.xyz)
-  * [3-hexyne.xyz](https://github.com/alejandrox1/chains_nwchem/blob/master/bench_mols/3-hexyne.xyz)
-  * [benzene.xyz](https://github.com/alejandrox1/chains_nwchem/blob/master/bench_mols/benzene.xyz)
-  * [n-heptnane.xyz](https://github.com/alejandrox1/chains_nwchem/blob/master/bench_mols/n-heptnane.xyz)  
+    * [1-hexene.xyz](https://github.com/alejandrox1/chains_nwchem/blob/master/bench_mols/1-hexene.xyz)
+    * [224-trimethylpentane.xyz](https://github.com/alejandrox1/chains_nwchem/blob/master/bench_mols/224-trimethylpentane.xyz)
+    * [3-hexyne.xyz](https://github.com/alejandrox1/chains_nwchem/blob/master/bench_mols/3-hexyne.xyz)
+    * [benzene.xyz](https://github.com/alejandrox1/chains_nwchem/blob/master/bench_mols/benzene.xyz)
+    * [n-heptnane.xyz](https://github.com/alejandrox1/chains_nwchem/blob/master/bench_mols/n-heptnane.xyz)  
 
 
 # [Preprocessing](https://github.com/alejandrox1/chains_nwchem/tree/master/calculations)
