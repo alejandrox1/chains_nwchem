@@ -24,13 +24,16 @@ To run these alculations on [Stampede](https://portal.tacc.utexas.edu/user-guide
 * [run_testsets.sh](https://github.com/alejandrox1/chains_nwchem/blob/master/bench_basis/STAMPEDE/run_testsets.sh)
  * [calc.sh](https://github.com/alejandrox1/chains_nwchem/blob/master/bench_basis/STAMPEDE/calc.sh)
 
-## Comparing Resoults with Similar Molecules
+## [Comparing Results with Similar Molecules](https://github.com/alejandrox1/chains_nwchem/tree/master/bench_mols)
 * [runall.sh](https://github.com/alejandrox1/chains_nwchem/blob/master/bench_mols/runall.sh)
   Excuse the bad naming and lack of comments but this is a straightforward setup.
   Basically following the directory structure:
-  `Exchange functional and Basis Set`
-   |
-   ---`Molcule`
+  ```
+  Exchange functional and Basis Set
+  |
+  -----Molcule
+  ```
+
 
  * [calc.nw](https://github.com/alejandrox1/chains_nwchem/blob/master/bench_mols/calc.nw)
    Performs calculation
@@ -42,7 +45,7 @@ To run these alculations on [Stampede](https://portal.tacc.utexas.edu/user-guide
   * [n-heptnane.xyz](https://github.com/alejandrox1/chains_nwchem/blob/master/bench_mols/n-heptnane.xyz)  
 
 
-# Preprocessing
+# [Preprocessing](https://github.com/alejandrox1/chains_nwchem/tree/master/calculations)
 ## Acetylenic Chanins
 * [run_blyp-pcs0.sh](https://github.com/alejandrox1/chains_nwchem/blob/master/calculations/run_blyp-pcs0.sh)
  * [raman_run_blyp-pcs0.sh](https://github.com/alejandrox1/chains_nwchem/blob/master/calculations/raman_run_blyp-pcs0.sh)
@@ -80,7 +83,7 @@ To run these alculations on [Stampede](https://portal.tacc.utexas.edu/user-guide
 
 
 
-# Analysis and Visualization
+# [Analysis and Visualization](https://github.com/alejandrox1/chains_nwchem/tree/master/analysis_viz)
 ## Basic visualization of spectra
 * [spec.sh](https://github.com/alejandrox1/chains_nwchem/blob/master/analysis_viz/ANALYSIS_SCRIPTS/spec.sh)
  * [rs](https://github.com/alejandrox1/chains_nwchem/blob/master/analysis_viz/ANALYSIS_SCRIPTS/rs)
@@ -106,3 +109,5 @@ To run these alculations on [Stampede](https://portal.tacc.utexas.edu/user-guide
 * [PLOT_spce.sh](https://github.com/alejandrox1/chains_nwchem/blob/master/analysis_viz/NEWER_RAMAN_RES/blyp_RAMAN_RESULTS/PLOT_spec.sh)
  * [spectrum.sh](https://github.com/alejandrox1/chains_nwchem/blob/master/analysis_viz/NEWER_RAMAN_RES/blyp_RAMAN_RESULTS/spectrum.sh)
   * [spectra.gnuplot](https://github.com/alejandrox1/chains_nwchem/blob/master/analysis_viz/NEWER_RAMAN_RES/blyp_RAMAN_RESULTS/spectrum.sh)
+
+# [Structures](https://github.com/alejandrox1/chains_nwchem/tree/master/carbyne)
