@@ -1,0 +1,49 @@
+echo
+
+start c24
+
+title "TDDFT c24 B3LYP/6-31G*"
+
+geometry units angstroms
+load c24.xyz
+end
+
+basis  spherical
+ H library 6-31G*
+ C library 6-31G*
+end
+
+dft
+ xc b3lyp  
+ direct
+ tolerances tight
+ iterations 1000
+end
+
+hessian 
+ thresh 1d-8
+ profile 
+end
+
+property
+ response  1 8.8559E-2
+ damping 0.007
+end
+
+raman
+  normal
+end
+
+driver
+ maxiter 30
+ xyz opt
+end
+
+task dft optimize
+task dft raman numerical
+
+freq 
+ reuse
+end
+
+task dft freq

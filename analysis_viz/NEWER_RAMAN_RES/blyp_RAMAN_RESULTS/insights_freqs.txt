@@ -1,0 +1,5 @@
+for the large chains (n > 36 there are multiple lo like modes, the extra ones on the 2000-2100 frequencies and are IRactive)
+
+the intensities after 36 are relative thus ignore them (either that or do all of them relative)
+
+

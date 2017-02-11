@@ -1,0 +1,6 @@
+4   2163.86     # triple single bond alternation
+6   2161.43     
+8   2097.90     # smaller peak at 1988
+10  2015.04
+14  1881.38
+20  1715.58

@@ -1,0 +1,293 @@
+3-21G
+3-21G*
+3-21G* Polarization
+3-21GSP
+4-22GSP
+4-31G
+5ZP
+5ZP-DKH
+3-21++G
+3-21++G*
+6-31G
+6-31G*
+6-31G* Polarization
+6-31G**
+6-31G** Polarization
+6-31+G
+6-31+G*
+6-31+G**
+6-31++G
+6-31++G*
+6-31++G**
+6-311G
+6-311G*
+6-311G* Polarization
+6-311G**
+6-311G** Polarization
+6-311+G
+6-311+G*
+6-311+G**
+6-311++G
+6-311++G*
+6-311++G**
+6-31G(3df,3pd)
+6-311++G(2d,2p)
+6-311++G(3df,3pd)
+6-311+G(2d,p)
+6-311G(2df,2pd)
+6-31G*-Blaudeau
+6-31G-Blaudeau
+6ZP
+6ZP-DKH
+A5ZP
+ADZP
+Ahlrichs Coulomb Fitting
+Ahlrichs Polarization
+Ahlrichs pVDZ
+Ahlrichs TZV
+Ahlrichs VDZ
+Ahlrichs VTZ
+apr-cc-pV(Q+d)Z
+AQZP
+ATZP
+aug-cc-pCV(T+d)Z
+aug-cc-pCV5Z
+aug-cc-pCVDZ
+aug-cc-pCVDZ-DK
+aug-cc-pCVQZ
+aug-cc-pCVQZ-DK
+aug-cc-pCVTZ
+aug-cc-pCVTZ-DK
+aug-cc-pV(5+d)Z
+aug-cc-pV(5+d)Z Diffuse
+aug-cc-pV(6+d)Z
+aug-cc-pV(6+d)Z Diffuse
+aug-cc-pV(D+d)Z
+aug-cc-pV(D+d)Z Diffuse
+aug-cc-pV(Q+d)Z
+aug-cc-pV(Q+d)Z Diffuse
+aug-cc-pV(T+d)Z
+aug-cc-pV(T+d)Z Diffuse
+aug-cc-pV5Z
+aug-cc-pV5Z Diffuse
+aug-cc-pV5Z-DK
+aug-cc-pV5Z-DK Diffuse
+aug-cc-pV5Z-RI diffuse
+aug-cc-pV5Z_OPTRI
+aug-cc-pV6Z
+aug-cc-pV6Z Diffuse
+aug-cc-pV6Z-RI diffuse
+aug-cc-pVDZ
+aug-cc-pVDZ Diffuse
+aug-cc-pVDZ-DK
+aug-cc-pVDZ-DK Diffuse
+aug-cc-pVDZ-RI diffuse
+aug-cc-pVDZ_OPTRI
+aug-cc-pVQZ
+aug-cc-pVQZ Diffuse
+aug-cc-pVQZ-DK
+aug-cc-pVQZ-DK Diffuse
+aug-cc-pVQZ-RI diffuse
+aug-cc-pVQZ_OPTRI
+aug-cc-pVTZ
+aug-cc-pVTZ Diffuse
+aug-cc-pVTZ-DK
+aug-cc-pVTZ-DK Diffuse
+aug-cc-pVTZ-J
+aug-cc-pVTZ-RI diffuse
+aug-cc-pVTZ_OPTRI
+aug-cc-pwCV5Z
+aug-cc-pwCVDZ
+aug-pc-0
+aug-pc-1
+aug-pc-2
+aug-pc-3
+aug-pc-4
+aug-pcJ-0
+aug-pcJ-0_2006
+aug-pcJ-1
+aug-pcJ-1_2006
+aug-pcJ-2
+aug-pcJ-2_2006
+aug-pcJ-3
+aug-pcJ-3_2006
+aug-pcJ-4
+aug-pcJ-4_2006
+aug-pcS-0
+aug-pcS-1
+aug-pcS-2
+aug-pcS-3
+aug-pcS-4
+aug-pcseg-0
+aug-pcseg-1
+aug-pcseg-2
+aug-pcseg-3
+aug-pcseg-4
+aug-pcSseg-0
+aug-pcSseg-1
+aug-pcSseg-2
+aug-pcSseg-3
+aug-pcSseg-4
+cc-pV5Z
+cc-pV5Z-DK
+cc-pV5Z-RI
+cc-pV6Z
+cc-pV6Z-RI
+cc-pVDZ
+cc-pVDZ(seg-opt)
+cc-pVDZ-DK
+cc-pVDZ-F12
+cc-pVDZ-F12_OPTRI
+cc-pVDZ-fit2-1
+cc-pVDZ-RI
+cc-pVQZ
+cc-pVQZ-DK
+cc-pVQZ-F12
+cc-pVQZ-F12_OPTRI
+cc-pVQZ-RI
+cc-pVTZ
+cc-pVTZ(seg-opt)
+cc-pVTZ-DK
+cc-pVTZ-F12
+cc-pVTZ-F12_OPTRI
+cc-pVTZ-fit2-1
+cc-pVTZ-RI
+ccemd-2
+ccemd-3
+ccJ-pV5Z
+ccJ-pVDZ
+ccJ-pVQZ
+ccJ-pVTZ
+Chipman DZP + Diffuse
+coemd-2
+coemd-3
+coemd-4
+coemd-ref
+CRENBL ECP
+d-aug-cc-pV5Z
+d-aug-cc-pV5Z Diffuse
+d-aug-cc-pV6Z
+d-aug-cc-pV6Z Diffuse
+d-aug-cc-pVDZ
+d-aug-cc-pVDZ Diffuse
+d-aug-cc-pVQZ
+d-aug-cc-pVQZ Diffuse
+d-aug-cc-pVTZ
+d-aug-cc-pVTZ Diffuse
+Def2-QZVP
+Def2-QZVPD
+Def2-QZVPP
+Def2-QZVPPD
+Def2-SV(P)
+Def2-SVP
+Def2-SVPD
+Def2-TZVP
+Def2-TZVPD
+Def2-TZVPP
+Def2-TZVPPD
+DeMon Coulomb Fitting
+DGauss A1 DFT Coulomb Fitting
+DGauss A1 DFT Exchange Fitting
+DGauss A2 DFT Coulomb Fitting
+DGauss A2 DFT Exchange Fitting
+DHMS Polarization
+Dunning-Hay Diffuse
+DZ (Dunning)
+DZP
+DZP (Dunning)
+DZP + Diffuse (Dunning)
+DZP-DKH
+DZVP (DFT Orbital)
+DZVP2 (DFT Orbital)
+GAMESS PVTZ
+GAMESS VTZ
+HONDO7 Polarization
+IGLO-II
+IGLO-III
+jul-cc-pV(D+d)Z
+jul-cc-pV(Q+d)Z
+jul-cc-pV(T+d)Z
+jun-cc-pV(D+d)Z
+jun-cc-pV(Q+d)Z
+jun-cc-pV(T+d)Z
+LANL2DZ ECP
+LANL2DZdp ECP
+LANL2DZdp ECP Polarization
+maug-cc-pV(D+d)Z
+maug-cc-pV(Q+d)Z
+maug-cc-pV(T+d)Z
+maug-cc-pVDZ
+maug-cc-pVQZ
+maug-cc-pVTZ
+may-cc-pV(Q+d)Z
+may-cc-pV(T+d)Z
+may-cc-pV(T+d)Z
+MG3S
+MIDI (Huzinaga)
+MIDI!
+MINI (Huzinaga)
+MINI (Scaled)
+NASA Ames ANO
+NLO-V
+pc-0
+pc-1
+pc-2
+pc-3
+pc-4
+pcemd-2
+pcemd-3
+pcemd-4
+pcJ-0
+pcJ-0_2006
+pcJ-1
+pcJ-1_2006
+pcJ-2
+pcJ-2_2006
+pcJ-3
+pcJ-3_2006
+pcJ-4
+pcJ-4_2006
+pcS-0
+pcS-1
+pcS-2
+pcS-3
+pcS-4
+pcseg-0
+pcseg-1
+pcseg-2
+pcseg-3
+pcseg-4
+pcSseg-0
+pcSseg-1
+pcSseg-2
+pcSseg-3
+pcSseg-4
+Pople (2d,2p) Polarization
+Pople (2df,2pd) Polarization
+Pople (3df,3pd) Polarization
+Pople-style Diffuse
+pV6Z
+pV7Z
+QZP
+QZP-DKH
+Roos Augmented Double Zeta ANO
+Roos Augmented Triple Zeta ANO
+Sadlej pVTZ
+Sadlej+
+SBKJC Polarized (p,2d) - LFK
+SBKJC VDZ ECP
+STO-2G
+STO-3G
+STO-6G
+SV (Dunning-Hay)
+SVP (Dunning-Hay)
+SVP + Diffuse (Dunning-Hay)
+TZ (Dunning)
+TZP
+TZP-DKH
+TZVP (DFT Orbital)
+UGBS
+un-ccemd-ref
+un-pcemd-ref
+Weigend Coulomb Fitting
+

@@ -1,0 +1,6 @@
+set terminal epslatex
+set output 'c24_rs.tex'
+set ylabel "Intensity"
+set xlabel "$Frequency \\ (cm^{-1})$"
+
+plot 'c24.normal' every ::84 using 1:2 title "c24" w l

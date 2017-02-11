@@ -1,0 +1,51 @@
+echo
+
+start bench
+
+title "TDDFT benchmarks"
+
+geometry units angstroms
+load benzene.xyz
+end
+
+basis  spherical
+ * library pcS-0
+end
+
+driver
+ clear
+ maxiter 12
+ xyz test
+end
+dft
+ xc becke88 lyp
+ convergence energy 1d-8 nolevelshifting
+ direct
+ TOLERANCES tight
+ ITERATIONS 5000
+end
+
+hessian 
+ thresh 1d-8
+ profile 
+end
+
+property
+ response  1 8.8559E-2
+ damping 0.007
+end
+
+raman
+  normal
+end
+
+
+task dft optimize
+task dft raman numerical
+
+freq
+ reuse
+end
+
+
+task dft freq

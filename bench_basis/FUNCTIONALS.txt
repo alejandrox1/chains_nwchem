@@ -1,0 +1,12 @@
+
+    B3LYP: xc b3lyp
+    PBE0: xc pbe0
+    PBE96: xc xpbe96 cpbe96
+    PW91: xc xperdew91 perdew91
+    BHLYP: xc bhlyp
+    Becke Half and Half: xc beckehandh
+    BP86: xc becke88 perdew86
+    BP91: xc becke88 perdew91
+    BLYP: xc becke88 lyp 
+
+

@@ -1,0 +1,6 @@
+set terminal epslatex
+set output 'monomer_zoom.tex'
+set ylabel "Intensity"
+set xlabel "$Frequency \\ (cm^{-1})$"
+
+plot 'monomer.normal' every ::400 using 1:2 title "monomer" w l
