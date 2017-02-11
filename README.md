@@ -49,27 +49,27 @@ To run these alculations on [Stampede](https://portal.tacc.utexas.edu/user-guide
 ## Acetylenic Chanins
 * [run_blyp-pcs0.sh](https://github.com/alejandrox1/chains_nwchem/blob/master/calculations/run_blyp-pcs0.sh)
  * [raman_run_blyp-pcs0.sh](https://github.com/alejandrox1/chains_nwchem/blob/master/calculations/raman_run_blyp-pcs0.sh)
-  * [blyp-pcs0_acetylene.nw](https://github.com/alejandrox1/chains_nwchem/blob/master/calculations/blyp-pcs0_acetylene.nw)
+    * [blyp-pcs0_acetylene.nw](https://github.com/alejandrox1/chains_nwchem/blob/master/calculations/blyp-pcs0_acetylene.nw)
 
 * [run_bp91-pcs0.sh](https://github.com/alejandrox1/chains_nwchem/blob/master/calculations/run_bp91-pcs0.sh)
  * [raman_run_bp91-pcs0.sh](https://github.com/alejandrox1/chains_nwchem/blob/master/calculations/raman_run_bp91-pcs0.sh)
-  * [bp91-pcs0_acetylene.nw](https://github.com/alejandrox1/chains_nwchem/blob/master/calculations/bp91-pcs0_acetylene.nw)
+    * [bp91-pcs0_acetylene.nw](https://github.com/alejandrox1/chains_nwchem/blob/master/calculations/bp91-pcs0_acetylene.nw)
 
 ## Strained Acetylenic Chains
 * [p_strain.py](https://github.com/alejandrox1/chains_nwchem/blob/master/calculations/p_strain.py)
 
 * [run_strained_blyp-pcs0.sh](https://github.com/alejandrox1/chains_nwchem/blob/master/calculations/run_strained_blyp-pcs0.sh)
  * [raman_run_strained_blyp-pcs0.sh](https://github.com/alejandrox1/chains_nwchem/blob/master/calculations/raman_run_strained_blyp-pcs0.sh)
-  * [strained_blyp-pcs0_acetylene.nw](https://github.com/alejandrox1/chains_nwchem/blob/master/calculations/strained_blyp-pcs0_acetylene.nw)
+    * [strained_blyp-pcs0_acetylene.nw](https://github.com/alejandrox1/chains_nwchem/blob/master/calculations/strained_blyp-pcs0_acetylene.nw)
 
 * [run_strained_bp91-pcs0.sh](https://github.com/alejandrox1/chains_nwchem/blob/master/calculations/run_strained_bp91-pcs0.sh)
  * [raman_run_strained_bp91-pcs0.sh](https://github.com/alejandrox1/chains_nwchem/blob/master/calculations/raman_run_strained_bp91-pcs0.sh)
-  * [strained_bp91-pcs0_acetylene.nw](https://github.com/alejandrox1/chains_nwchem/blob/master/calculations/strained_bp91-pcs0_acetylene.nw)
+    * [strained_bp91-pcs0_acetylene.nw](https://github.com/alejandrox1/chains_nwchem/blob/master/calculations/strained_bp91-pcs0_acetylene.nw)
 
 ## Cumulenic Chains
 * [run_cumul_blyp-pcs0.sh](https://github.com/alejandrox1/chains_nwchem/blob/master/calculations/run_cumul_blyp-pcs0.sh)
  * [raman_run_blyp-pcs0_cumulene.sh](https://github.com/alejandrox1/chains_nwchem/blob/master/calculations/raman_run_blyp-pcs0_cumulene.sh)
-  * [blyp-pcs0_cumulene.nw](https://github.com/alejandrox1/chains_nwchem/blob/master/calculations/blyp-pcs0_cumulene.nw)
+    * [blyp-pcs0_cumulene.nw](https://github.com/alejandrox1/chains_nwchem/blob/master/calculations/blyp-pcs0_cumulene.nw)
 
 ## Restarting Calculations
 * [restart_raman.sh](https://github.com/alejandrox1/chains_nwchem/blob/master/calculations/restart_raman.sh)
@@ -108,6 +108,6 @@ To run these alculations on [Stampede](https://portal.tacc.utexas.edu/user-guide
 ### Examples
 * [PLOT_spce.sh](https://github.com/alejandrox1/chains_nwchem/blob/master/analysis_viz/NEWER_RAMAN_RES/blyp_RAMAN_RESULTS/PLOT_spec.sh)
  * [spectrum.sh](https://github.com/alejandrox1/chains_nwchem/blob/master/analysis_viz/NEWER_RAMAN_RES/blyp_RAMAN_RESULTS/spectrum.sh)
-  * [spectra.gnuplot](https://github.com/alejandrox1/chains_nwchem/blob/master/analysis_viz/NEWER_RAMAN_RES/blyp_RAMAN_RESULTS/spectrum.sh)
+    * [spectra.gnuplot](https://github.com/alejandrox1/chains_nwchem/blob/master/analysis_viz/NEWER_RAMAN_RES/blyp_RAMAN_RESULTS/spectrum.sh)
 
 # [Structures](https://github.com/alejandrox1/chains_nwchem/tree/master/carbyne)
