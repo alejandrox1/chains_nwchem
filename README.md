@@ -46,6 +46,9 @@ To run these alculations on [Stampede](https://portal.tacc.utexas.edu/user-guide
 
 
 # [Preprocessing](https://github.com/alejandrox1/chains_nwchem/tree/master/calculations)
+The following set of scripts run the QM calculations and perform any set up necessary.
+Like always, sublist denote dependencies.
+
 ## Acetylenic Chanins
 * [run_blyp-pcs0.sh](https://github.com/alejandrox1/chains_nwchem/blob/master/calculations/run_blyp-pcs0.sh)
  * [raman_run_blyp-pcs0.sh](https://github.com/alejandrox1/chains_nwchem/blob/master/calculations/raman_run_blyp-pcs0.sh)
@@ -57,6 +60,7 @@ To run these alculations on [Stampede](https://portal.tacc.utexas.edu/user-guide
 
 ## Strained Acetylenic Chains
 * [p_strain.py](https://github.com/alejandrox1/chains_nwchem/blob/master/calculations/p_strain.py)
+  This script takes a [relaxed chain](https://github.com/alejandrox1/chains_nwchem/blob/master/calculations/get_relaxed_structures.sh) and strains it by a given amount. 
 
 * [run_strained_blyp-pcs0.sh](https://github.com/alejandrox1/chains_nwchem/blob/master/calculations/run_strained_blyp-pcs0.sh)
  * [raman_run_strained_blyp-pcs0.sh](https://github.com/alejandrox1/chains_nwchem/blob/master/calculations/raman_run_strained_blyp-pcs0.sh)
@@ -84,28 +88,40 @@ To run these alculations on [Stampede](https://portal.tacc.utexas.edu/user-guide
 
 
 # [Analysis and Visualization](https://github.com/alejandrox1/chains_nwchem/tree/master/analysis_viz)
-## Basic visualization of spectra
-* [spec.sh](https://github.com/alejandrox1/chains_nwchem/blob/master/analysis_viz/ANALYSIS_SCRIPTS/spec.sh)
- * [rs](https://github.com/alejandrox1/chains_nwchem/blob/master/analysis_viz/ANALYSIS_SCRIPTS/rs)
+Sample output are included for the following scripts.
 
+## Basic visualization of spectra
+These scripts can be used to visualize the results from the generated `.normal` files.
+* [spec.sh](https://github.com/alejandrox1/chains_nwchem/blob/master/analysis_viz/ANALYSIS_SCRIPTS/spec.sh) 
+  Displays all the Raman spectrum.
+ * [rs](https://github.com/alejandrox1/chains_nwchem/blob/master/analysis_viz/ANALYSIS_SCRIPTS/rs)
+   Gunplot add on.
 * [zoom.sh](https://github.com/alejandrox1/chains_nwchem/blob/master/analysis_viz/ANALYSIS_SCRIPTS/zoom.sh)
+  Zooms into a part of the Raman spectrum.
  * [zoom](https://github.com/alejandrox1/chains_nwchem/blob/master/analysis_viz/ANALYSIS_SCRIPTS/zoom)
+   Gnuplot add on.
 
 ## General 
 * [visualize_vecs.sh](https://github.com/alejandrox1/chains_nwchem/blob/master/analysis_viz/NEWER_RAMAN_RES/visualize_vecs.sh)
+  Driver script to visualize Raman modes.
  * [displacement_vectors.py](https://github.com/alejandrox1/chains_nwchem/blob/master/analysis_viz/NEWER_RAMAN_RES/displacement_vectors.py)
 
 * [Frequency-length.gnuplot](https://github.com/alejandrox1/chains_nwchem/blob/master/analysis_viz/NEWER_RAMAN_RES/Frequency-length.gnuplot)
+  Normal Raman plot.
 
 * [cumulenic_acetylenic.py](https://github.com/alejandrox1/chains_nwchem/blob/master/analysis_viz/NEWER_RAMAN_RES/cumulenic_acetylenic.py)
+  Comparison of LO mode for acetylinic and cumulenic chains.
 
 * [lo-change.py](https://github.com/alejandrox1/chains_nwchem/blob/master/analysis_viz/NEWER_RAMAN_RES/lo-change.py)
+  Size dependence of the LO mode..
 
 * [Nwchem_espresso.py](https://github.com/alejandrox1/chains_nwchem/blob/master/analysis_viz/NEWER_RAMAN_RES/Nwchem_espresso.py)
+  Comparison of resoults from `Quantum Espresso` and `Nwchem`.
 
 * [Strain.py](https://github.com/alejandrox1/chains_nwchem/blob/master/analysis_viz/NEWER_RAMAN_RES/Strain.py)
+  Visualize changes in frequency under applied strain.
 
-### Examples
+### [Examples](https://github.com/alejandrox1/chains_nwchem/tree/master/analysis_viz/NEWER_RAMAN_RES/spectra-full)
 * [PLOT_spce.sh](https://github.com/alejandrox1/chains_nwchem/blob/master/analysis_viz/NEWER_RAMAN_RES/blyp_RAMAN_RESULTS/PLOT_spec.sh)
  * [spectrum.sh](https://github.com/alejandrox1/chains_nwchem/blob/master/analysis_viz/NEWER_RAMAN_RES/blyp_RAMAN_RESULTS/spectrum.sh)
     * [spectra.gnuplot](https://github.com/alejandrox1/chains_nwchem/blob/master/analysis_viz/NEWER_RAMAN_RES/blyp_RAMAN_RESULTS/spectrum.sh)
